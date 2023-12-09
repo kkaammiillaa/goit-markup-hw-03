@@ -263,6 +263,7 @@ img {
 .card-content {
   border: 1px solid #e7e9fc;
   padding: 32px 16px;
+  border-top: none;
 }
 .portfolio-list .title {
   color: #2e2f42;
